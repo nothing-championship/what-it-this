@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2023-11-20T13:41:42.775Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1" etag="pT6-Y4j3RndgZMavKyi4" version="22.1.3" type="github">
+  <diagram name="第 1 页" id="hKMhetFGUESW5WwWaDs0">
+    <mxGraphModel dx="943" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="iQ9hKgZUA6vSeqzWPqep-1" target="iQ9hKgZUA6vSeqzWPqep-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-18" value="在地图池随机选择六张地图或指定六张地图" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="iQ9hKgZUA6vSeqzWPqep-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.2415" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="iQ9hKgZUA6vSeqzWPqep-9" target="iQ9hKgZUA6vSeqzWPqep-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="iQ9hKgZUA6vSeqzWPqep-9" target="iQ9hKgZUA6vSeqzWPqep-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-27" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="iQ9hKgZUA6vSeqzWPqep-9" target="iQ9hKgZUA6vSeqzWPqep-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-9" value="检查参与人数&lt;br&gt;并生成相应鸡数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="99" y="245.34" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="iQ9hKgZUA6vSeqzWPqep-11" target="iQ9hKgZUA6vSeqzWPqep-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-11" value="开始游戏并设置1:30秒倒计时" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="100" y="323" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" target="iQ9hKgZUA6vSeqzWPqep-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142.67224422442243" y="153" as="sourcePoint" />
+            <mxPoint x="135.00227722772271" y="236" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-1" value="tgttos" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="79" y="134" width="174" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-22" value="若遇到人数不够停止游戏直到管理强制开启或人数足够" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="363" y="237" width="120" height="106.34" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="iQ9hKgZUA6vSeqzWPqep-24" target="iQ9hKgZUA6vSeqzWPqep-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-32" value="当玩家受到伤害时传送到起点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="iQ9hKgZUA6vSeqzWPqep-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.3405" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-24" value="检测鸡死亡和造成鸡死亡的人并排名" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="52" y="413" width="121" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-26" value="鸡的生命数只有半颗心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-141" y="245.34000000000003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-31" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="iQ9hKgZUA6vSeqzWPqep-28" target="iQ9hKgZUA6vSeqzWPqep-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-28" value="将已击杀鸡的玩家调整为旁观模式" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="99" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-34" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="iQ9hKgZUA6vSeqzWPqep-30" target="iQ9hKgZUA6vSeqzWPqep-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-30" value="当场上死亡人数不足三人时将倒计时调整为30秒" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="99.5" y="633" width="120" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-41" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="iQ9hKgZUA6vSeqzWPqep-33" target="iQ9hKgZUA6vSeqzWPqep-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-33" value="当倒计时结束时将未完成的玩家给予最低分数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="106" y="778" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-35" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="421" y="798" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-38" value="当六轮结束时计算此小游戏的分数并加入总分数中 聊天框显示此小游戏和加入此游戏后获得的分数和排名" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="515" width="215" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ9hKgZUA6vSeqzWPqep-40" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="199" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
