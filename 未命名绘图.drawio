@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T13:20:24.035Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 EdgA/118.0.2088.66" etag="io3TIJwhzZ65MXgN9l7i" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T13:24:16.573Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 EdgA/118.0.2088.66" etag="1X07kRC8z-VbjzyhhvT1" version="22.1.3" type="github">
   <diagram name="第 1 页" id="qARJv5t8qv7T0nK0jZ-0">
     <mxGraphModel dx="399" dy="1084" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,8 +64,26 @@
         <mxCell id="OOp7aShyH6z5rNpulKWo-7" value="中途有玩家退出重连后取消此小游戏资格并修改为旁观模式 直至游戏结束传送回大厅" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="298" y="652.13" width="120" height="136.25" as="geometry" />
         </mxCell>
-        <mxCell id="OOp7aShyH6z5rNpulKWo-10" value="" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="58" y="870.25" width="120" height="60" as="geometry" />
+        <mxCell id="OOp7aShyH6z5rNpulKWo-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="OOp7aShyH6z5rNpulKWo-10" target="OOp7aShyH6z5rNpulKWo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OOp7aShyH6z5rNpulKWo-10" value="每场小游戏后将有1分钟休息时间 四轮小游戏后将会有三分钟休息时间" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="58" y="870.25" width="120" height="104.75" as="geometry" />
+        </mxCell>
+        <mxCell id="OOp7aShyH6z5rNpulKWo-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="OOp7aShyH6z5rNpulKWo-14" target="OOp7aShyH6z5rNpulKWo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OOp7aShyH6z5rNpulKWo-14" value="当八轮小游戏完成后公布所有排名 并选出第一第二名进入躲避箭" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="58" y="1117.38" width="120" height="104.63" as="geometry" />
+        </mxCell>
+        <mxCell id="OOp7aShyH6z5rNpulKWo-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="OOp7aShyH6z5rNpulKWo-16" target="OOp7aShyH6z5rNpulKWo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OOp7aShyH6z5rNpulKWo-16" value="躲避箭才用三胜&lt;br&gt;详情请看wiki规则介绍&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="58" y="1364.3250000000003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OOp7aShyH6z5rNpulKWo-18" value="当一方玩家获得胜利 游戏结束" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="58" y="1544.3250000000003" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
