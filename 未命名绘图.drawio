@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T13:10:47.239Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 EdgA/118.0.2088.66" etag="IOqTlR5veOIiG18v0VP6" version="22.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-20T13:14:29.025Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 EdgA/118.0.2088.66" etag="tDzFlI8-waDyVqBtgApb" version="22.1.3" type="github">
   <diagram name="第 1 页" id="qARJv5t8qv7T0nK0jZ-0">
-    <mxGraphModel dx="359" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="312" dy="936" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,20 +19,24 @@
         <mxCell id="W9Le-NY_zxLpUQUmvvFF-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="W9Le-NY_zxLpUQUmvvFF-4" target="W9Le-NY_zxLpUQUmvvFF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uAXUZzEl7_gABhflO_rd-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="W9Le-NY_zxLpUQUmvvFF-4" target="uAXUZzEl7_gABhflO_rd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W9Le-NY_zxLpUQUmvvFF-4" value="当所有玩家进入服务器后 向所有玩家发送确认准备信息" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="58" y="37" width="120" height="91" as="geometry" />
         </mxCell>
         <mxCell id="W9Le-NY_zxLpUQUmvvFF-6" value="注:准备信息有效时间为一分钟 时间过即无效&lt;br&gt;准备信息只显示xx队伍已准备" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="304" y="25.25" width="120" height="114.5" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="QUdn0AD2Z3rq8dXn88-Z" name="第 2 页">
-    <mxGraphModel dx="359" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="uAXUZzEl7_gABhflO_rd-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uAXUZzEl7_gABhflO_rd-3" target="uAXUZzEl7_gABhflO_rd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAXUZzEl7_gABhflO_rd-3" value="当所有玩家/队伍准备后开始两分钟倒计时" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="58" y="263.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uAXUZzEl7_gABhflO_rd-5" value="当倒计时内有玩家退出后 倒计时自动停止 等到玩家重新连接或管理员强制开启游戏后继续倒计时" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="304" y="227.75" width="120" height="131.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
