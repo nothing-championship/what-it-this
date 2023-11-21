@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T13:43:05.654Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36 EdgA/118.0.2088.66" etag="bKtcRl2tXq3Lwhu-FWo6" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T14:05:25.938Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1" etag="HJV4JoW3rTX94RpDypDu" version="22.1.3" type="github">
   <diagram name="第 1 页" id="qARJv5t8qv7T0nK0jZ-0">
-    <mxGraphModel dx="1118" dy="1632" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,8 +85,11 @@
         <mxCell id="OOp7aShyH6z5rNpulKWo-18" value="当一方玩家获得胜利 游戏结束" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="58" y="1544.3250000000003" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6spwImOaTPiOzij4EY0N-1" value="管理员拥有停止游戏 继续游戏 暂停游戏等权限&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="6spwImOaTPiOzij4EY0N-1" value="管理员拥有停止游戏 继续游戏 暂停游戏等权限&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-331" y="941" width="236" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="JtdZd5Om7BtnupZR3lzy-1" value="当出现大规模掉线时 将投票决定是否重启小游戏 若遇到服务商故障等导致短时间无法重新开始此小游戏时决定是否择日重新开始联赛" style="whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="-351" y="190" width="268" height="197" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
