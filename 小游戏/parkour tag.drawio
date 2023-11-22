@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T13:26:35.921Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36 EdgA/119.0.0.0" etag="7kxS3RIj_OG54hbuS5iE" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T13:33:08.404Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36 EdgA/119.0.0.0" etag="CCoux35UIkG_nfMVOCVE" version="22.1.3" type="github">
   <diagram name="第 1 页" id="hZ_Ys6aM_7410wJPslLY">
     <mxGraphModel dx="359" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,32 @@
         <mxCell id="rfNkvmtyaerZlIBuDHLV-2" value="才用1v1车轮战形式 降两支队伍传送到选择区域" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="142" y="74" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfNkvmtyaerZlIBuDHLV-4" value="" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="145" y="187" width="120" height="60" as="geometry" />
+        <mxCell id="rfNkvmtyaerZlIBuDHLV-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rfNkvmtyaerZlIBuDHLV-4" target="rfNkvmtyaerZlIBuDHLV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rfNkvmtyaerZlIBuDHLV-4" value="玩家自行选择成为猎人 将选择猎人的玩家进入封锁区确认猎人（20秒选择时间）" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="145" y="187" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="rfNkvmtyaerZlIBuDHLV-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rfNkvmtyaerZlIBuDHLV-6" target="rfNkvmtyaerZlIBuDHLV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rfNkvmtyaerZlIBuDHLV-6" value="将两队逃跑者和猎人传送至游戏区域 等待五秒开始" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="145" y="334" width="120" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="rfNkvmtyaerZlIBuDHLV-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rfNkvmtyaerZlIBuDHLV-8" target="rfNkvmtyaerZlIBuDHLV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rfNkvmtyaerZlIBuDHLV-8" value="开始后玩家拥有技能可在五秒内使猎人发光 猎人可以永久看到逃跑者发光" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="145" y="482" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="rfNkvmtyaerZlIBuDHLV-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rfNkvmtyaerZlIBuDHLV-10" target="rfNkvmtyaerZlIBuDHLV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rfNkvmtyaerZlIBuDHLV-10" value="若猎人抓住一位玩家获得30分奖励 若所有逃跑者抓到将在抓到的基础上获得30分奖励" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="142" y="644" width="120" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="rfNkvmtyaerZlIBuDHLV-12" value="若逃跑者成功摆脱玩家 逃跑者获得存活人数*60分奖励 猎人获得抓捕人数*30分奖励" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="145" y="808" width="120" height="137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
