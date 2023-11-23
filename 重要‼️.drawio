@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T13:58:19.813Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1" version="22.1.3" etag="yWCI56z7l1ZcCgIXOmRS" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T13:59:19.911Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1" etag="gR_5prDiAs89V0vO7IbY" version="22.1.3" type="github">
   <diagram name="第 1 页" id="YeK6gRNvZPkMsStAg_PM">
-    <mxGraphModel>
+    <mxGraphModel dx="152" dy="493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="add2hIQv3je6148XZHiO-1" value="所有分数计算规则按视频/wiki介绍来 wiki：mcchampionship.fandom.com" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="121" y="19" width="247" height="145" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
