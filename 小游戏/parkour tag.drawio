@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T14:07:34.317Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1" etag="gqWOAbzYu5N0iRCvxMuP" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T13:57:51.272Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1" etag="CvByh78_cM8AxT9YSulZ" version="22.1.3" type="github">
   <diagram name="第 1 页" id="hZ_Ys6aM_7410wJPslLY">
-    <mxGraphModel dx="380" dy="893" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="271" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="rfNkvmtyaerZlIBuDHLV-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="rfNkvmtyaerZlIBuDHLV-2" target="rfNkvmtyaerZlIBuDHLV-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IsyP4NENWSV5cFU5x8kX-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rfNkvmtyaerZlIBuDHLV-2" target="IsyP4NENWSV5cFU5x8kX-3">
+        <mxCell id="IsyP4NENWSV5cFU5x8kX-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="rfNkvmtyaerZlIBuDHLV-2" target="IsyP4NENWSV5cFU5x8kX-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfNkvmtyaerZlIBuDHLV-2" value="才用1v1车轮战形式 降两支队伍传送到选择区域" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -43,17 +43,20 @@
         <mxCell id="rfNkvmtyaerZlIBuDHLV-10" value="若猎人抓住一位玩家获得30分奖励 若所有逃跑者抓到将在抓到的基础上获得30分奖励" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="142" y="644" width="120" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="IsyP4NENWSV5cFU5x8kX-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rfNkvmtyaerZlIBuDHLV-12" target="IsyP4NENWSV5cFU5x8kX-1">
+        <mxCell id="IsyP4NENWSV5cFU5x8kX-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="rfNkvmtyaerZlIBuDHLV-12" target="IsyP4NENWSV5cFU5x8kX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfNkvmtyaerZlIBuDHLV-12" value="若逃跑者成功摆脱玩家 逃跑者获得存活人数*60分奖励 猎人获得抓捕人数*30分奖励" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="145" y="808" width="120" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="IsyP4NENWSV5cFU5x8kX-1" value="四轮结束后 显示队伍在此游戏的分数和排名 加入分数后的总排名" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="IsyP4NENWSV5cFU5x8kX-1" value="四轮结束后 显示队伍在此游戏的分数和排名 加入分数后的总排名" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="145" y="993" width="120" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="IsyP4NENWSV5cFU5x8kX-3" value="注：车轮战将采取前四名为一组 后四名为一组进行 例如第八名对战第七名 结束后第八名对战之前第六名" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="IsyP4NENWSV5cFU5x8kX-3" value="注：车轮战将采取前四名为一组 后四名为一组进行 例如第八名对战第七名 结束后第八名对战之前第六名" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="412" y="17.5" width="120" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="_4Bwo-sE2_vdxBXFtKNj-1" value="【【熟肉】关于MCC第二赛季你所需要了解的一切（MCC全环节规则介绍）-哔哩哔哩】【视频标记点 07:21】 https://b23.tv/eBBR2uzi" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="112" y="-283" width="212" height="171" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
