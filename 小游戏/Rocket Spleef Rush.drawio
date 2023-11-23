@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T13:20:54.949Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36 EdgA/119.0.0.0" etag="zTpxyvjwpkV89Vxwet-F" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T13:23:12.142Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36 EdgA/119.0.0.0" etag="fKtxgSNlNQNL0N7-4arX" version="22.1.3" type="github">
   <diagram name="第 1 页" id="VKGTsSFPKgjLtFF46m9Y">
     <mxGraphModel dx="1453" dy="1520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,6 +44,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-43" y="687" />
+              <mxPoint x="-233" y="839" />
               <mxPoint x="-245" y="491" />
               <mxPoint x="-205" y="71" />
             </Array>
@@ -54,6 +55,9 @@
         </mxCell>
         <mxCell id="VopR-WtWdOsuU5bOKM1l-5" value="重复三轮 一轮换一次地图（第二轮和第三轮无需显示游戏规则）三轮结束后 显示队伍在此游戏的分数和排名和加入此游戏后总分和排名&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-450" y="311" width="205" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="VopR-WtWdOsuU5bOKM1l-7" value="游戏介绍视频:【【MCYT/MCC/中文字幕】MCC20官方预告片-哔哩哔哩】【视频标记点 01:32】 https://b23.tv/idsYjYi&lt;br&gt;游戏介绍wiki:https://mcchampionship.fandom.com/wiki/Rocket_Spleef_Rush" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="-269" width="672" height="166" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
