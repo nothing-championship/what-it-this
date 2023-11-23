@@ -1,41 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T13:05:35.987Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36 EdgA/119.0.0.0" etag="i_1YcvECkY7xEM7qx0qx" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T13:20:54.949Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36 EdgA/119.0.0.0" etag="zTpxyvjwpkV89Vxwet-F" version="22.1.3" type="github">
   <diagram name="第 1 页" id="VKGTsSFPKgjLtFF46m9Y">
-    <mxGraphModel dx="759" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="1520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="VJuQhz7TN3_m5-vFarQI-1" target="VJuQhz7TN3_m5-vFarQI-2">
+        <mxCell id="VopR-WtWdOsuU5bOKM1l-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="VJuQhz7TN3_m5-vFarQI-10" target="VopR-WtWdOsuU5bOKM1l-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-1" value="玩家传送至服务器 介绍规则 准备开始游戏（三分钟）" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="139" y="-19" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="VJuQhz7TN3_m5-vFarQI-2" target="VJuQhz7TN3_m5-vFarQI-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-2" value="游戏开始 准备平台消失" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="139" y="107" width="120" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="VJuQhz7TN3_m5-vFarQI-4" target="VJuQhz7TN3_m5-vFarQI-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="VJuQhz7TN3_m5-vFarQI-4" target="VJuQhz7TN3_m5-vFarQI-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-4" value="玩家佩戴鞘翅 拥有火球发射器（金铲子）和急救平台" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="145" y="225" width="120" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-8" value="火球发射器:能发射火球 能使自己起飞或史敌人收到攻击（所有玩家免疫火球伤害）&lt;br&gt;急救平台:在脚下生成一个五秒的急救平台 能使玩家通过急救平台起飞" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="382" y="150.25" width="120" height="242.5" as="geometry" />
-        </mxCell>
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="VJuQhz7TN3_m5-vFarQI-10" target="VJuQhz7TN3_m5-vFarQI-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-10" value="地图刚开始又一分钟时间 时间过后显示下一个地点并逐步消失第一个地点的地图" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-10" value="地图刚开始有一分钟时间 时间过后显示下一个地点并逐步消失第一个区域" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="143" y="363" width="120" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="VJuQhz7TN3_m5-vFarQI-12" value="" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-97" y="400.5" width="120" height="60" as="geometry" />
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="VJuQhz7TN3_m5-vFarQI-1" target="VJuQhz7TN3_m5-vFarQI-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-1" value="玩家传送至服务器 介绍规则 准备开始游戏（三分钟）" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="139" y="-19" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="VJuQhz7TN3_m5-vFarQI-2" target="VJuQhz7TN3_m5-vFarQI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-2" value="游戏开始 准备平台消失" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="139" y="107" width="120" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="VJuQhz7TN3_m5-vFarQI-4" target="VJuQhz7TN3_m5-vFarQI-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="VJuQhz7TN3_m5-vFarQI-4" target="VJuQhz7TN3_m5-vFarQI-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-4" value="玩家佩戴鞘翅 拥有火球发射器（金铲子）和急救平台" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="145" y="225" width="120" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-8" value="火球发射器:能发射火球 能使自己起飞或史敌人收到攻击（所有玩家免疫火球伤害）&lt;br&gt;急救平台:在脚下生成一个五秒的急救平台 能使玩家通过急救平台起飞" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="382" y="150.25" width="120" height="242.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="VJuQhz7TN3_m5-vFarQI-10" target="VJuQhz7TN3_m5-vFarQI-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJuQhz7TN3_m5-vFarQI-12" value="随着时间的流逝区域消失的速度会变快（一局五分钟）" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-84" y="382.75" width="120" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VopR-WtWdOsuU5bOKM1l-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="VopR-WtWdOsuU5bOKM1l-1" target="VJuQhz7TN3_m5-vFarQI-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-43" y="687" />
+              <mxPoint x="-245" y="491" />
+              <mxPoint x="-205" y="71" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VopR-WtWdOsuU5bOKM1l-1" value="当剩余30秒时（此时已无区域可显示）存活到最后一个玩家即可获胜（最后一分钟禁止并回收急救平台的使用）" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="117" y="548" width="146" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="VopR-WtWdOsuU5bOKM1l-5" value="重复三轮 一轮换一次地图（第二轮和第三轮无需显示游戏规则）三轮结束后 显示队伍在此游戏的分数和排名和加入此游戏后总分和排名&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="311" width="205" height="206" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
