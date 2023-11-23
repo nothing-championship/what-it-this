@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T13:41:42.775Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1" etag="pT6-Y4j3RndgZMavKyi4" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T13:48:58.438Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1" etag="90UMcymRw02CfSy5B9E4" version="22.1.3" type="github">
   <diagram name="第 1 页" id="hKMhetFGUESW5WwWaDs0">
-    <mxGraphModel dx="943" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="611" dy="674" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="iQ9hKgZUA6vSeqzWPqep-40" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="199" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5dEfEdNh-0yUfyVkejDC-2" value="视频介绍【【熟肉】关于MCC第二赛季你所需要了解的一切（MCC全环节规则介绍）-哔哩哔哩】【视频标记点 09:10】 https://b23.tv/O8IRDgf" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="104" y="-158" width="273" height="189" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
