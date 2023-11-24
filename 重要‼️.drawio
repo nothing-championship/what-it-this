@@ -1,11 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T13:59:19.911Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1" etag="gR_5prDiAs89V0vO7IbY" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T14:25:51.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="MeA6R-xLZtAUakrzIG0c" version="22.1.3" type="github">
   <diagram name="第 1 页" id="YeK6gRNvZPkMsStAg_PM">
-    <mxGraphModel dx="152" dy="493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="add2hIQv3je6148XZHiO-1" value="所有分数计算规则按视频/wiki介绍来 wiki：mcchampionship.fandom.com" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="121" y="19" width="247" height="145" as="geometry" />
+        <mxCell id="add2hIQv3je6148XZHiO-1" value="所有分数计算规则按视频/wiki介绍来 wiki：mcchampionship.fandom.com" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-168" y="40" width="215" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OR9lDgVfyenlIUTKhBig-5" target="OR9lDgVfyenlIUTKhBig-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-2" value="发送分数和排名信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OR9lDgVfyenlIUTKhBig-1">
+          <mxGeometry x="-0.1502" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OR9lDgVfyenlIUTKhBig-5" target="OR9lDgVfyenlIUTKhBig-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="305" />
+              <mxPoint x="251" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-4" value="第一第二名传送比赛现场 其余玩家传送至看台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OR9lDgVfyenlIUTKhBig-3">
+          <mxGeometry x="0.0716" relative="1" as="geometry">
+            <mxPoint x="110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-5" value="主服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OR9lDgVfyenlIUTKhBig-8" target="OR9lDgVfyenlIUTKhBig-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="391" y="255" />
+              <mxPoint x="391" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-7" value="发送游戏结束后总排名和总分数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OR9lDgVfyenlIUTKhBig-6">
+          <mxGeometry x="0.1695" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-8" value="小游戏服务器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OR9lDgVfyenlIUTKhBig-11" target="OR9lDgVfyenlIUTKhBig-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-10" value="获得三分游戏结束 将所有玩家传回服务器 第一名队伍传送到颁奖台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OR9lDgVfyenlIUTKhBig-9">
+          <mxGeometry x="0.0319" y="1" relative="1" as="geometry">
+            <mxPoint x="-169" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-11" value="八轮小游戏结束后总排名第一第二进入最后游戏 抉择出总冠军" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="161" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OR9lDgVfyenlIUTKhBig-12" value="相关视频&amp;nbsp;【【MCYT/Dream/中文字幕】MCC18：紫红怪人-哔哩哔哩】 https://b23.tv/4wUZZbD&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="72" width="215" height="103" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
