@@ -1,67 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T14:03:41.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="RLP5vTCm8JV1KTdxV08C" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T14:19:13.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="468Eak-xN6MCKYF84tUS" version="22.1.3" type="github">
   <diagram name="第 1 页" id="cu-dAzu5BIS1fCz81C8o">
-    <mxGraphModel dx="1829" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="32-gz0vIGcnirA62GDWq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32-gz0vIGcnirA62GDWq-1" target="32-gz0vIGcnirA62GDWq-3">
+        <mxCell id="ECD4ljO6jr6rLbycyJk0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECD4ljO6jr6rLbycyJk0-1" target="ECD4ljO6jr6rLbycyJk0-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32-gz0vIGcnirA62GDWq-1" target="32-gz0vIGcnirA62GDWq-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-1" value="主服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32-gz0vIGcnirA62GDWq-3" target="32-gz0vIGcnirA62GDWq-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-3" value="选择游戏" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="294" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32-gz0vIGcnirA62GDWq-5" target="32-gz0vIGcnirA62GDWq-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-5" value="传送小游戏服务器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="494" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32-gz0vIGcnirA62GDWq-9" target="32-gz0vIGcnirA62GDWq-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-9" value="分数排名发送小游戏服务器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="494" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-11" value="游戏结束后将总分数和排名发回服务器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="294" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="32-gz0vIGcnirA62GDWq-11" target="32-gz0vIGcnirA62GDWq-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32-gz0vIGcnirA62GDWq-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="370" as="targetPoint" />
+        <mxCell id="ECD4ljO6jr6rLbycyJk0-6" value="发送分数和排名信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ECD4ljO6jr6rLbycyJk0-3">
+          <mxGeometry x="-0.1502" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32-gz0vIGcnirA62GDWq-15" target="32-gz0vIGcnirA62GDWq-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ECD4ljO6jr6rLbycyJk0-1" value="主服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-15" value="重复八个小游戏后（小游戏库有九个）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="ECD4ljO6jr6rLbycyJk0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ECD4ljO6jr6rLbycyJk0-2" target="ECD4ljO6jr6rLbycyJk0-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="270" />
+              <mxPoint x="310" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32-gz0vIGcnirA62GDWq-18" target="32-gz0vIGcnirA62GDWq-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ECD4ljO6jr6rLbycyJk0-7" value="发送游戏结束后总排名和总分数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ECD4ljO6jr6rLbycyJk0-4">
+          <mxGeometry x="0.1695" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-18" value="总分数排名第一第二进入躲避箭" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32-gz0vIGcnirA62GDWq-21" target="32-gz0vIGcnirA62GDWq-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-21" value="赢得三场获胜" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="32-gz0vIGcnirA62GDWq-23" value="游戏结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="ECD4ljO6jr6rLbycyJk0-2" value="小游戏服务器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
